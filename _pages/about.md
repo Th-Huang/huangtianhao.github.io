@@ -9,7 +9,6 @@ redirect_from:
 
 I am a Ph.D. candidate at Nanjing University of Aeronautics and Astronautics, focusing on visual inspection technologies. My research bridges the gap between computer vision (including DIC for strain measurement and point cloud processing) and Finite Element Analysis (FEA), advancing the frontiers of experimental and computational mechanics.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
 ======
