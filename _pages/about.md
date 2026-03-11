@@ -20,5 +20,5 @@ Publications
 
 Educations
 ------
-- Ph.D. in Mechanical Engineering, Nanjing University of Aeronautics and Astronautics, 2021 - Present
-- M.Sc. in Mechanical Engineering, Nanjing University of Aeronautics and Astronaut
+- Ph.D. in Mechanical Engineering, Nanjing University of Aeronautics and Astronautics, 2023 - Present
+- M.Sc. in Mechanical Engineering, Nanjing University of Aeronautics and Astronautics, 2019 - 2023
